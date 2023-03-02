@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Conflicto en master
+=======
+Conflicto
+>>>>>>> rama1
